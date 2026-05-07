@@ -23,12 +23,6 @@ Node.js • Express.js • MongoDB
 ### GenAI / AI-ML
 Python • OpenAI APIs • Prompt Engineering • AI Tools
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishupr&show_icons=true&theme=radical" />
-</p>
-
 ## 🌟 Projects
 - nishsworld
 - Constitution Made Easy

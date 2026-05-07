@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=Nishu%20Pundir&fontSize=40&fontColor=ffffff"/>
+
 # Hey, I'm Nishu 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF61F6&lines=Full+Stack+Developer;GenAI+Explorer)](https://git.io/typing-svg)
@@ -8,6 +10,10 @@
 
 ## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git,vscode" />
+</p>
+
 ### Frontend
 HTML • CSS • JavaScript • React • Tailwind CSS
 
@@ -16,6 +22,12 @@ Node.js • Express.js • MongoDB
 
 ### GenAI / AI-ML
 Python • OpenAI APIs • Prompt Engineering • AI Tools
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishupr&show_icons=true&theme=radical" />
+</p>
 
 ## 🌟 Projects
 - nishsworld

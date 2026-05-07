@@ -23,11 +23,13 @@ Node.js • Express.js • MongoDB
 ### GenAI / AI-ML
 Python • OpenAI APIs • Prompt Engineering • AI Tools
 
-## 🌟 Projects
-- nishsworld
-- Constitution Made Easy
-- CyberSentry
-- ConsentFlow
+## 🏆 Achievements
+
+- 🌟 GSSoC Contributor 2026  
+- 🏅 2× Hackathon Winner  
+- 💻 Building Full Stack & AI-powered Projects  
+- 🤖 Exploring GenAI & AI/ML  
+- 🚀 Open Source Enthusiast
 
 ## 📈 Currently Learning
 - Backend Deployment

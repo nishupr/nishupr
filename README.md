@@ -18,9 +18,10 @@ Node.js • Express.js • MongoDB
 Python • OpenAI APIs • Prompt Engineering • AI Tools
 
 ## 🌟 Projects
-- DeepFakeGuard
-- MindfulMood
-- AI-based Web Apps
+- nishsworld
+- Constitution Made Easy
+- CyberSentry
+- ConsentFlow
 
 ## 📈 Currently Learning
 - Backend Deployment

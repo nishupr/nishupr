@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Nishu 👋
 
-<!--
-**nishupr/nishupr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF61F6&lines=Frontend+Developer;Backend+Builder;GenAI+Explorer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+💻 Full Stack Developer  
+⚡ Full Stack Developer • GenAI  
+🚀 Building real-world projects with AI & Web Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React • Tailwind CSS
+
+### Backend
+Node.js • Express.js • MongoDB
+
+### GenAI / AI-ML
+Python • OpenAI APIs • Prompt Engineering • AI Tools
+
+## 🌟 Projects
+- DeepFakeGuard
+- MindfulMood
+- AI-based Web Apps
+
+## 📈 Currently Learning
+- Backend Deployment
+- AI/ML & GenAI
+
+## 🎯 Goals
+- GSoC
+- Open Source Contributions
+- Big Tech Internship

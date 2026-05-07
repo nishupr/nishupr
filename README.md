@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF61F6&lines=Full+Stack+Developer;GenAI+Explorer)](https://git.io/typing-svg)
 
-💻 Full Stack Developer  
+💻 Full Stack
 ⚡ GenAI  
 🚀 Building real-world projects with AI & Web Tech
 

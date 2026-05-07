@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=Nishu%20Pundir&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=Nishu%20Pundir/nBtech%20CSE/nBatch%20of%202028&fontSize=40&fontColor=ffffff"/>
 
 # Hey, I'm Nishu 👋
 

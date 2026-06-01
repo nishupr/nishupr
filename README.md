@@ -108,7 +108,6 @@
 ## 🎯 2026 Goals
 
 ```text
-GSoC Application          ████████░░░░░░░░░░░░   40%
 Open Source Contributions ████████████░░░░░░░░   60%
 AI/ML Learning            ██████░░░░░░░░░░░░░░   30%
 Backend Deployment        ████████░░░░░░░░░░░░   40%

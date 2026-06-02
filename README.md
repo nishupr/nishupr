@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:a855f7,100:ff00cc&height=250&section=header&text=Nishu%20Pundir&fontSize=40&fontColor=ffffff&desc=BTech%20CSE%20%E2%80%A2%20GGSIPU%20%E2%80%A2%20Batch%20of%202028&descSize=18&descAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:a855f7,100:ff00cc&height=220&section=header&text=Nishu%20Pundir&fontSize=50&fontColor=ffffff&desc=BTech%20CSE%20%E2%80%A2%20GGSIPU%20%E2%80%A2%20Batch%20of%202028&descSize=18&descAlignY=70&animation=fadeIn" width="100%"/>
 </div>
 
 <br>

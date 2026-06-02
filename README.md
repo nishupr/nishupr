@@ -81,7 +81,7 @@ const nishu = {
 <img src="https://img.icons8.com/3d-fluency/120/prize.png"/>
 <br><br>
 <h3><i>🏅 2× Hackathon Winner</i></h3>
-<p><b>Add event names here</b></p>
+
 <sub><i>Competitive Problem Solver</i></sub>
 </td>
 <td align="center" width="25%" style="padding: 20px;">

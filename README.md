@@ -325,7 +325,7 @@ const nishu = {
 <table width="70%" border="0" cellpadding="20">
 <tr>
 <td align="center" width="33%">
-<a href="https://linkedin.com/in/nishu-pundir" target="_blank">
+<a href="https://www.linkedin.com/in/nishu-pundir-33a188336/" target="_blank">
 <img src="https://img.icons8.com/3d-fluency/120/linkedin.png"/>
 <br><br>
 <h3><i>LinkedIn</i></h3>
@@ -354,7 +354,7 @@ const nishu = {
 <br>
 
 <p>
-<a href="https://linkedin.com/in/nishu-pundir">
+<a href="https://www.linkedin.com/in/nishu-pundir-33a188336/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;

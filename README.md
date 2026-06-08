@@ -271,14 +271,6 @@ const nishu = {
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="50%" style="padding: 20px;">
-<h3>📋 ConsentFlow</h3>
-<p>Digital consent management system</p>
-<p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></p>
-<a href="https://github.com/nishupr/ConsentFlow">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
 </tr>
 </table>
 </div>

@@ -180,7 +180,7 @@ const nishu = {
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=nishupr&background=1a1b27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&border=30363d" width="98%" />
+<img src="https://streak-stats.demolab.com/?user=nishupr&background=1a1b27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&currStreakNum=C0CAF5&sideNums=C0CAF5&sideLabels=9AA5CE&dates=9AA5CE&border=30363d&stroke=30363d" width="98%" />
 
 <br><br>
 

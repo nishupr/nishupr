@@ -1,0 +1,55 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0b1f"/>
+      <stop offset="50%" stop-color="#1a1530"/>
+      <stop offset="100%" stop-color="#120c24"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#bb9af7"/>
+      <stop offset="50%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7aa2f7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#bgGrad)"/>
+
+  <circle cx="870" cy="60" r="160" fill="url(#glow1)"/>
+  <circle cx="120" cy="220" r="180" fill="url(#glow2)"/>
+
+  <g opacity="0.35" stroke="#7aa2f7" stroke-width="0.6">
+    <line x1="0" y1="30" x2="1000" y2="30"/>
+    <line x1="0" y1="230" x2="1000" y2="230"/>
+  </g>
+
+  <g opacity="0.5" fill="none" stroke="#bb9af7" stroke-width="1">
+    <circle cx="60" cy="50" r="3" fill="#bb9af7"/>
+    <circle cx="940" cy="210" r="3" fill="#7dcfff"/>
+    <path d="M40 50 L60 50 L60 70" stroke-width="1"/>
+    <path d="M960 210 L940 210 L940 190" stroke-width="1"/>
+  </g>
+
+  <text x="60" y="70" font-family="Fira Code, monospace" font-size="13" fill="#7dcfff" opacity="0.55">&lt;developer&gt;</text>
+  <text x="850" y="205" font-family="Fira Code, monospace" font-size="13" fill="#bb9af7" opacity="0.55">&lt;/developer&gt;</text>
+
+  <text x="500" y="118" text-anchor="middle" font-family="Fira Code, monospace" font-weight="700" font-size="52" fill="url(#nameGrad)">Nishu Pundir</text>
+
+  <rect x="350" y="142" width="300" height="2" fill="url(#lineGrad)"/>
+
+  <text x="500" y="172" text-anchor="middle" font-family="Fira Code, monospace" font-weight="500" font-size="17" letter-spacing="1" fill="#c0caf5">Full Stack Developer &#8226; GenAI Explorer</text>
+
+  <text x="500" y="205" text-anchor="middle" font-family="Fira Code, monospace" font-size="14" fill="#9aa5ce">B.Tech CSE &#8226; GGSIPU &#8226; Batch of 2028</text>
+</svg>

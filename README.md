@@ -1,7 +1,10 @@
 <div align="center">
 
-# Nishu Pundir
-### BTech CSE • GGSIPU • Batch of 2028
+<!-- Banner -->
+<div style="background: linear-gradient(135deg, #6a3093, #d6249f); border-radius: 12px; padding: 40px 20px; margin-bottom: 20px;">
+  <h1 style="color:white; font-size: 48px; margin: 0;">Nishu Pundir</h1>
+  <p style="color:#f0e6ff; font-size: 18px; margin-top: 8px;">BTech CSE • GGSIPU • Batch of 2028</p>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;GenAI+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 

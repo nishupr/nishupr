@@ -197,7 +197,7 @@ const nishu = {
 </h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nishupr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+<img src="https://github-trophies.vercel.app/?username=nishupr&theme=tokyonight&no-frame=true&margin-w=15" />
 </div>
 
 <br>

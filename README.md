@@ -141,7 +141,7 @@ const nishu = {
 </tr>
 <tr>
 <td align="center" width="50%" style="padding: 18px; border: 1px solid #30363d; border-radius: 10px;">
-<h3><img src="https://img.icons8.com/3d-fluency/50/ETVUfl0Ylh1p.png"/>&nbsp; AI / GenAI</h3>
+<h3><img src="https://github.com/user-attachments/assets/460930e1-01f2-4203-b2eb-f2f18a0a72c4"/>&nbsp; AI / GenAI</h3>
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=F7768E" />
 <img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=BB9AF7" />

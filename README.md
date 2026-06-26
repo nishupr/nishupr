@@ -175,16 +175,8 @@ const nishu = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="middle" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=nishupr&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-</td>
-<td align="center" valign="middle" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishupr&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=nishupr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishupr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 

@@ -175,12 +175,20 @@ const nishu = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishupr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishupr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<table>
+<tr>
+<td align="center" valign="middle" width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=nishupr&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+</td>
+<td align="center" valign="middle" width="50%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nishupr&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=nishupr&background=1a1b27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&currStreakNum=C0CAF5&sideNums=C0CAF5&sideLabels=9AA5CE&dates=9AA5CE&border=30363d&stroke=30363d&cache_seconds=0" width="98%" />
+<img src="https://streak-stats.demolab.com/?user=nishupr&background=1a1b27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&currStreakNum=C0CAF5&sideNums=C0CAF5&sideLabels=9AA5CE&dates=9AA5CE&border=30363d&stroke=30363d" width="98%" />
 
 <br><br>
 

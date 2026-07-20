@@ -49,7 +49,7 @@ const nishu = {
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/nishupr/nishupr/main/assets/coding-animation.svg" width="450" alt="Coding Illustration"/>
+<img src="https://raw.githubusercontent.com/nishupr/nishupr/main/coding-animation.svg" width="450" alt="Coding Illustration"/>
 </div>
 
 </td>

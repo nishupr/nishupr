@@ -101,9 +101,6 @@
   <!-- reflection glow under laptop -->
   <ellipse cx="225" cy="290" rx="140" ry="8" fill="#7AA2F7" opacity="0.12"/>
 
-  <!-- gentle bob animation for whole laptop group -->
-  <animateTransform xlink:href="#laptop-group" attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="3.5s" repeatCount="indefinite"/>
-
   <!-- tagline -->
   <text x="225" y="335" font-family="Fira Code, monospace" font-size="13" fill="#9AA5CE" text-anchor="middle">
     always shipping

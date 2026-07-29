@@ -156,7 +156,7 @@ const nishu = {
 <p>
 <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ECE6A" />
 <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E" />
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=F7768E" />
 <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7DCFFF" />
 <img src="https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=7AA2F7" />
 </p>

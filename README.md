@@ -1,7 +1,6 @@
 <div align="center">
 <img width="100%" alt="Nishu Pundir Banner" src="https://raw.githubusercontent.com/nishupr/nishupr/main/banner.svg" />
 </div>
-
 <br>
 
 <div align="center">

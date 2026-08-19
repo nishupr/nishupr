@@ -78,7 +78,7 @@ const nishu = {
 <td align="center" width="25%" style="padding: 16px;">
 <img src="https://img.icons8.com/3d-fluency/100/rocket.png"/>
 <br><br>
-<h3><i>🚀 GSSoC'26 Contributor</i></h3>
+<h3><i>🚀 Top 50 in GSSoC'26</i></h3>
 <sub><i>GirlScript Summer of Code</i></sub>
 </td>
 <td align="center" width="25%" style="padding: 16px;">
@@ -100,7 +100,7 @@ const nishu = {
 
 <img src="https://img.shields.io/badge/CGPA-9.70-7AA2F7?style=for-the-badge&logoColor=white&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/Hackathons-12%2B-BB9AF7?style=for-the-badge&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Open%20Source-GSSoC'26-9ECE6A?style=for-the-badge&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Open%20Source-Top%2050%20GSSoC'26-9ECE6A?style=for-the-badge&logoColor=white&labelColor=1a1b27"/>
 
 </div>
 

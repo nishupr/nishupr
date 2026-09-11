@@ -178,10 +178,10 @@ const nishu = {
 <table>
 <tr>
 <td align="center" valign="middle" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=nishupr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=nishupr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
 </td>
 <td align="center" valign="middle" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishupr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nishupr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
 </td>
 </tr>
 </table>
